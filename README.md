@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit M</h1>
 <h3 align="center">A passionate Full Stack and Android Developer</h3>
 
-- 🔭 I’m currently working on **Home video Server**
+- 🔭 I’m currently working on **Video Streaming Platform**
 
 - 🌱 I’m currently learning **Python,Django**
 
